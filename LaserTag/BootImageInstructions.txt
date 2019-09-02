@@ -1,0 +1,10 @@
+Output:
+	F:\ECEn390\my390\Consolidated_330_SW\bootimage\Consolidated_330_SW.bif
+
+Add:
+	Board Support Files: F:\ECEn390\my390\zynq_fsbl\Debug\zynq_fsbl.elf
+	Bit Stream: F:\ECEn390\my390\EE330_hw_platform_0\system_wrapper.bit
+	Our Code: F:\ECEn390\my390\Consolidated_330_SW\Debug\Consolidated_330_SW.elf
+	
+Output:
+	F:\ECEn390\my390\Consolidated_330_SW\bootimage\BOOT.bin
